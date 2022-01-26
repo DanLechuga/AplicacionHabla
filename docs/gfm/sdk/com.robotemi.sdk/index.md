@@ -1,0 +1,20 @@
+//[sdk](../../index.md)/[com.robotemi.sdk](index.md)
+
+
+
+# Package com.robotemi.sdk  
+
+
+## Types  
+  
+|  Name |  Summary | 
+|---|---|
+| <a name="com.robotemi.sdk/BatteryData///PointingToDeclaration/"></a>[BatteryData](-battery-data/index.md)| <a name="com.robotemi.sdk/BatteryData///PointingToDeclaration/"></a>[androidJvm]  <br>Content  <br>data class [BatteryData](-battery-data/index.md)(**level**: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), **isCharging**: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)) : [Parcelable](https://developer.android.com/reference/kotlin/android/os/Parcelable.html)  <br><br><br>|
+| <a name="com.robotemi.sdk/MediaContainer///PointingToDeclaration/"></a>[MediaContainer](-media-container/index.md)| <a name="com.robotemi.sdk/MediaContainer///PointingToDeclaration/"></a>[androidJvm]  <br>Content  <br>interface [MediaContainer](-media-container/index.md)  <br><br><br>|
+| <a name="com.robotemi.sdk/MediaObject///PointingToDeclaration/"></a>[MediaObject](-media-object/index.md)| <a name="com.robotemi.sdk/MediaObject///PointingToDeclaration/"></a>[androidJvm]  <br>Content  <br>open class [MediaObject](-media-object/index.md) : [Parcelable](https://developer.android.com/reference/kotlin/android/os/Parcelable.html), [MediaContainer](-media-container/index.md)  <br><br><br>|
+| <a name="com.robotemi.sdk/NlpResult///PointingToDeclaration/"></a>[NlpResult](-nlp-result/index.md)| <a name="com.robotemi.sdk/NlpResult///PointingToDeclaration/"></a>[androidJvm]  <br>Content  <br>class [NlpResult](-nlp-result/index.md) : [Parcelable](https://developer.android.com/reference/kotlin/android/os/Parcelable.html)  <br><br><br>|
+| <a name="com.robotemi.sdk/Robot///PointingToDeclaration/"></a>[Robot](-robot/index.md)| <a name="com.robotemi.sdk/Robot///PointingToDeclaration/"></a>[androidJvm]  <br>Content  <br>class [Robot](-robot/index.md)  <br><br><br>|
+| <a name="com.robotemi.sdk/SourceObject///PointingToDeclaration/"></a>[SourceObject](-source-object/index.md)| <a name="com.robotemi.sdk/SourceObject///PointingToDeclaration/"></a>[androidJvm]  <br>Content  <br>open class [SourceObject](-source-object/index.md) : [Parcelable](https://developer.android.com/reference/kotlin/android/os/Parcelable.html)  <br><br><br>|
+| <a name="com.robotemi.sdk/TtsRequest///PointingToDeclaration/"></a>[TtsRequest](-tts-request/index.md)| <a name="com.robotemi.sdk/TtsRequest///PointingToDeclaration/"></a>[androidJvm]  <br>Content  <br>data class [TtsRequest](-tts-request/index.md)(**id**: [UUID](https://developer.android.com/reference/kotlin/java/util/UUID.html), **speech**: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), **packageName**: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), **status**: [TtsRequest.Status](-tts-request/-status/index.md), **drawableBitmap**: [Bitmap](https://developer.android.com/reference/kotlin/android/graphics/Bitmap.html)?, **isShowOnConversationLayer**: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html), **language**: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html), **showAnimationOnly**: [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)) : [Parcelable](https://developer.android.com/reference/kotlin/android/os/Parcelable.html)  <br><br><br>|
+| <a name="com.robotemi.sdk/UserInfo///PointingToDeclaration/"></a>[UserInfo](-user-info/index.md)| <a name="com.robotemi.sdk/UserInfo///PointingToDeclaration/"></a>[androidJvm]  <br>Content  <br>data class [UserInfo](-user-info/index.md)(**userId**: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), **name**: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), **picUrl**: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?, **role**: [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)) : [Parcelable](https://developer.android.com/reference/kotlin/android/os/Parcelable.html)  <br><br><br>|
+

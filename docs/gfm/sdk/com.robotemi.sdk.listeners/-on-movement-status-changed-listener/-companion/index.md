@@ -1,0 +1,22 @@
+//[sdk](../../../../index.md)/[com.robotemi.sdk.listeners](../../index.md)/[OnMovementStatusChangedListener](../index.md)/[Companion](index.md)
+
+
+
+# Companion  
+ [androidJvm] object [Companion](index.md)   
+
+
+## Properties  
+  
+|  Name |  Summary | 
+|---|---|
+| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_ABORT/#/PointingToDeclaration/"></a>[STATUS_ABORT](-s-t-a-t-u-s_-a-b-o-r-t.md)| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_ABORT/#/PointingToDeclaration/"></a> [androidJvm] const val [STATUS_ABORT](-s-t-a-t-u-s_-a-b-o-r-t.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_CALCULATING/#/PointingToDeclaration/"></a>[STATUS_CALCULATING](-s-t-a-t-u-s_-c-a-l-c-u-l-a-t-i-n-g.md)| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_CALCULATING/#/PointingToDeclaration/"></a> [androidJvm] const val [STATUS_CALCULATING](-s-t-a-t-u-s_-c-a-l-c-u-l-a-t-i-n-g.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_COMPLETE/#/PointingToDeclaration/"></a>[STATUS_COMPLETE](-s-t-a-t-u-s_-c-o-m-p-l-e-t-e.md)| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_COMPLETE/#/PointingToDeclaration/"></a> [androidJvm] const val [STATUS_COMPLETE](-s-t-a-t-u-s_-c-o-m-p-l-e-t-e.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_GOING/#/PointingToDeclaration/"></a>[STATUS_GOING](-s-t-a-t-u-s_-g-o-i-n-g.md)| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_GOING/#/PointingToDeclaration/"></a> [androidJvm] const val [STATUS_GOING](-s-t-a-t-u-s_-g-o-i-n-g.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_NODE_INACTIVE/#/PointingToDeclaration/"></a>[STATUS_NODE_INACTIVE](-s-t-a-t-u-s_-n-o-d-e_-i-n-a-c-t-i-v-e.md)| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_NODE_INACTIVE/#/PointingToDeclaration/"></a> [androidJvm] const val [STATUS_NODE_INACTIVE](-s-t-a-t-u-s_-n-o-d-e_-i-n-a-c-t-i-v-e.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_OBSTACLE_DETECTED/#/PointingToDeclaration/"></a>[STATUS_OBSTACLE_DETECTED](-s-t-a-t-u-s_-o-b-s-t-a-c-l-e_-d-e-t-e-c-t-e-d.md)| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_OBSTACLE_DETECTED/#/PointingToDeclaration/"></a> [androidJvm] const val [STATUS_OBSTACLE_DETECTED](-s-t-a-t-u-s_-o-b-s-t-a-c-l-e_-d-e-t-e-c-t-e-d.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_START/#/PointingToDeclaration/"></a>[STATUS_START](-s-t-a-t-u-s_-s-t-a-r-t.md)| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/STATUS_START/#/PointingToDeclaration/"></a> [androidJvm] const val [STATUS_START](-s-t-a-t-u-s_-s-t-a-r-t.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/TYPE_SKID_JOY/#/PointingToDeclaration/"></a>[TYPE_SKID_JOY](-t-y-p-e_-s-k-i-d_-j-o-y.md)| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/TYPE_SKID_JOY/#/PointingToDeclaration/"></a> [androidJvm] const val [TYPE_SKID_JOY](-t-y-p-e_-s-k-i-d_-j-o-y.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/TYPE_TURN_BY/#/PointingToDeclaration/"></a>[TYPE_TURN_BY](-t-y-p-e_-t-u-r-n_-b-y.md)| <a name="com.robotemi.sdk.listeners/OnMovementStatusChangedListener.Companion/TYPE_TURN_BY/#/PointingToDeclaration/"></a> [androidJvm] const val [TYPE_TURN_BY](-t-y-p-e_-t-u-r-n_-b-y.md): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)   <br>|
+

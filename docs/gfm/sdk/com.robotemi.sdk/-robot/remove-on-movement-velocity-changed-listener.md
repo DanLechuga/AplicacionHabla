@@ -1,0 +1,13 @@
+//[sdk](../../../index.md)/[com.robotemi.sdk](../index.md)/[Robot](index.md)/[removeOnMovementVelocityChangedListener](remove-on-movement-velocity-changed-listener.md)
+
+
+
+# removeOnMovementVelocityChangedListener  
+[androidJvm]  
+Content  
+@[UiThread](https://developer.android.com/reference/kotlin/androidx/annotation/UiThread.html)()  
+  
+fun [removeOnMovementVelocityChangedListener](remove-on-movement-velocity-changed-listener.md)(listener: [OnMovementVelocityChangedListener](../../com.robotemi.sdk.listeners/-on-movement-velocity-changed-listener/index.md))  
+
+
+
